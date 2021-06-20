@@ -22,6 +22,7 @@ namespace ClassMetotDemo
             Console.WriteLine("Silinen Müşterinin ; \n"+"\n"+ "Adı : "+musteri.MusteriAdi+"\n"+"Soyadı : "+musteri.MusteriSoyadi+"\n"+
                                 "Yaşı : "+musteri.MusteriYasi+"\n");
         }
+
     }
 }
 
